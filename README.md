@@ -15,7 +15,7 @@ Creativity fuels me, whether it's sketching or solving bugs.
 -  **Databases**: `MySQL`
 
 ### Other
-- 📜 **Languages**: C, C++, Java
+- 📜 **Languages**: `C`, `C++`, `Java`
 - 👑 **Leadership**: Communicating ideas as Assistant Joint Secretary of the **BUP InfoTech Club** and as Design & Creativity Coordinator at **IEEE BUP Student Branch**.
 
 ## Fun Fact:
