@@ -7,12 +7,13 @@ I'm an undergrad at **Bangladesh University of Professionals**, currently studyi
 Creativity fuels me, whether it's sketching or solving bugs. 
 ## Tech Stack:
 ### 🖥 FrontEnd
-- **Languages**: `JavaScript` `HTML` `CSS`, 
-- **Frameworks**: `React`, `Redux`, `Tailwind CSS`
+- **Languages**: `JavaScript` `HTML` `CSS`, `Typescript`
+- **Frameworks**: `React`, `Redux`, `Tailwind CSS`,`Next`
 
 ### 🗄️ BackEnd
 -  **Languages**: `JavaScript`, `PHP`
--  **Databases**: `MySQL`
+-  **Frameworks**: `Next`, `Express`
+-  **Databases**: `MySQL`,`MongoDB`
 
 ### Other
 - 📜 **Languages**: `C`, `C++`, `Java`
