@@ -18,6 +18,7 @@ Creativity fuels me, whether it's sketching or solving bugs.
 ### Other
 - 📜 **Languages**: `C`, `C++`, `Java`
 - 👑 **Leadership**: Currently serving as General Secretary in **IEEE BUP Student Branch**.
+![IEEE BUP Student Branch](https://github.com/rupontinova/rupontinova/blob/main/assets/2.png)
 
 ## Fun Fact:
 When I'm not knee-deep in code, you can find me either drawing or binge-watching animes!
