@@ -11,13 +11,13 @@ Creativity fuels me, whether it's sketching or solving bugs.
 - **Frameworks**: `React`, `Redux`, `Tailwind CSS`,`Next`
 
 ### 🗄️ BackEnd
--  **Languages**: `JavaScript`, `PHP`
--  **Frameworks**: `Next`, `Express`
+-  **Languages**: `JavaScript`,`Python`,`PHP`
+-  **Frameworks**: `Next`, `Express`,`Flask`
 -  **Databases**: `MySQL`,`MongoDB`
 
 ### Other
 - 📜 **Languages**: `C`, `C++`, `Java`
-- 👑 **Leadership**: Communicating ideas as Assistant Joint Secretary of the **BUP InfoTech Club** and as Design & Creativity Coordinator at **IEEE BUP Student Branch**.
+- 👑 **Leadership**: Currently serving as General Secretary in **IEEE BUP Student Branch**.
 
 ## Fun Fact:
 When I'm not knee-deep in code, you can find me either drawing or binge-watching animes!
