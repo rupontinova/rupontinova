@@ -13,7 +13,8 @@ Creativity fuels me, whether it's sketching or solving bugs.
 ### 🗄️ BackEnd
 -  **Languages**: `JavaScript`,`Python`,`PHP`
 -  **Frameworks**: `Next`, `Express`,`Flask`
--  **Databases**: `MySQL`,`MongoDB`
+-  **Databases**: `SQL`,`MongoDB`
+-  **Concepts**: `Machine Learning & Data Analysis`,`Data Structures & Algorithms (DSA)`,`Artificial Intelligence (AI)`
 
 ### Other
 - 📜 **Languages**: `C`, `C++`, `Java`
