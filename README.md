@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/rupontimuinnova"><img src="https://api.daily.dev/devcards/v2/LIgtjGxCXJD1IezjOluQT.png?r=51t&type=wide" width="652" alt="Ruponti Muin Nova's Dev Card"/></a>
 # Hello! I'm Ruponti Muin Nova 👩‍💻
 
 I'm an undergrad at **Bangladesh University of Professionals**, currently studying in **Information and Communication Engineering**.
